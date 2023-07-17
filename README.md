@@ -1,4 +1,3 @@
-# google-Bard
 # source: google-Bard
 # installation:
 ```
